@@ -90,3 +90,9 @@ abase	əˋbes	Sound\A\abase.mp3	<base:基礎>
 
 - 音效檔路徑直接對應 `WordCards.txt` 第三欄，檔名需與資料一致（包含底線、大小寫）
 - 單字檔編碼為 **UTF-8**
+
+---
+
+## 執行畫面
+<img width="1009" height="474" alt="image" src="https://github.com/user-attachments/assets/81a23cfe-a7cc-485f-b1ec-69d917367c30" />
+
